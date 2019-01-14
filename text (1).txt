@@ -1,0 +1,28 @@
+An algorithm is a procedure or step-by-step instruction for solving a problem. They form the foundation of writing a program.
+
+For writing any programs, the following has to be known:
+
+Input
+Tasks to be preformed
+Output expected
+For any task, the instructions given to a friend is different from the instructions given to a computer. Let’s look at the difference between them and know how to give instructions to a computer.
+
+Instruction to a Friend:
+Step 1: Go to the College Board.
+
+Step 2: Search for my name on the board.
+
+Step 3: Check the rank against my name.
+
+Instructions to the Computer:
+Step 1: Go to the College Board.
+
+Step 2: Read the first name.
+
+Step 3: If this is my name, see rank and come back.
+
+Step 4: Read the next name.
+
+Step 5: Repeat the above two steps until you find my name.
+
+Breaking down the steps into smaller steps is called algorithm.
